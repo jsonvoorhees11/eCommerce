@@ -1,1 +1,1 @@
-Phần này dùng để tạo ra dịch vụ ngân hàng ảo để thanh toán
+Phần này dùng để tạo ra dịch vụ ngân hàng ảo cho chức năng thanh toán
