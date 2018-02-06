@@ -1,0 +1,12 @@
+body{
+    color:#38003c;
+    background-color: #00ff85;
+    font-size:50px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+ul {
+    list-style-type: none;
+}
+#trademark{
+    font-size:20px;
+}

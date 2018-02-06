@@ -1,0 +1,8 @@
+<% include partials/header %>
+<h1>Account List</h1>
+<ul>
+<% items.forEach(function(item){ %>
+    <li><%= item['login'] %> - <%= item['password'] %> - <%= item['balance'] %></li>
+<% })%>
+</ul>
+<%include partials/footer %>
